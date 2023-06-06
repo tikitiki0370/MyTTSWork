@@ -1,0 +1,9 @@
+noise 0.0 3.44
+female 3.44 9.06
+noise 9.06 13.34
+female 13.34 15.5
+male 15.5 16.16
+noise 16.16 20.54
+female 20.54 25.32
+noise 25.32 27.96
+noEnergy 27.96 74.04

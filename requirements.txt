@@ -1,0 +1,5 @@
+pydub
+inaSpeechSegmenter
+numpy
+speech_recognition
+tqdm
